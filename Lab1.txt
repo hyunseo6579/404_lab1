@@ -1,0 +1,7 @@
+Q1. https://github.com/hyunseo6579
+Q2. 3.8.10
+Q3. 2.26.0
+Q4. virtual env has (*venv name*) to show that it's virtual env, and stores it's own set of libraries that I install and does not overwrite the version or install on top of my pc's currently installed libraries.
+Q5. 301, to get status code 200, I need to pass http://www.google.com/ instead of http://google.com/
+Q6. 308 when I search with curl -i, 418 for http://www.google.com/teapot
+Q7. adding -X POST made curl add X into Form Contents and also added 'X' and 'Y' to mini field storage.
