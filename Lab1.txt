@@ -5,4 +5,4 @@ Q4. virtual env has (*venv name*) to show that it's virtual env, and stores it's
 Q5. 301, to get status code 200, I need to pass http://www.google.com/ instead of http://google.com/
 Q6. 308 when I search with curl -i, 418 for http://www.google.com/teapot
 Q7. adding -X POST made curl add X into Form Contents and also added 'X' and 'Y' to mini field storage.
-Q8. https://github.com/hyunseo6579/404_lab1/blob/main/lab1.py
+Q8. https://raw.githubusercontent.com/hyunseo6579/404_lab1/master/lab1.py
